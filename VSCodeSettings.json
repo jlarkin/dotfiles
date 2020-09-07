@@ -1,0 +1,11 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Community Material Theme Darker High Contrast",
+    "workbench.settings.editor": "json",
+    "workbench.settings.openDefaultSettings": true,
+    "editor.fontFamily": "Source Code Pro",
+    "python.pythonPath": "python3",
+    "python.formatting.provider": "black",
+    "editor.formatOnSave": true,
+    "debug.console.fontFamily": "Source Code Pro",
+}
