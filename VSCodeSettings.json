@@ -8,4 +8,5 @@
     "python.formatting.provider": "black",
     "editor.formatOnSave": true,
     "debug.console.fontFamily": "Source Code Pro",
+    "terminal.external.osxExec": "alacritty.app"
 }
