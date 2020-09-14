@@ -9,6 +9,7 @@ brew tap homebrew/cask-fonts && brew cask install font-source-code-pro
 brew cask install visual-studio-code
 brew cask install dropbox
 brew cask install google-chrome
+brew case install shadow
 brew cask install microsoft-office
 
 #install non-casks
