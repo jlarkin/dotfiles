@@ -7,7 +7,7 @@ bindkey -v
 
 # Setting up Defaults
 export EDITOR='code'
-export TERMINAL='alacritty'
+export TERMINAL='zsh'
 export BROWSER='chrome'
 
 # Prompt Settings

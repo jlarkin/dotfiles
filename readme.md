@@ -10,7 +10,7 @@ Change Shell to zsh
 - rename to .zshrc
 
 ## Location for VSCode File
-- Copy VSCodeSetting.json to $HOME/Library/Application Support/Code/User/settings.json 
+- Copy VSCode_setting.json to $HOME/Library/Application Support/Code/User/settings.json 
 - Rename to settings.json
 
 https://code.visualstudio.com/docs/getstarted/settings

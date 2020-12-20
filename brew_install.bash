@@ -5,13 +5,13 @@
 #install  source code pro 
 brew tap homebrew/cask-fonts && brew cask install font-source-code-pro
 
+#install non-casks
+brew install python@3.8
+brew install git
+
 #cask installs
 brew cask install visual-studio-code
 brew cask install dropbox
 brew cask install google-chrome
-brew case install shadow
+brew cask install shadow
 brew cask install microsoft-office
-
-#install non-casks
-brew install python@3.8
-brew install git
