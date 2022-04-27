@@ -6,7 +6,8 @@
 brew tap homebrew/cask-fonts && brew cask install font-source-code-pro
 
 #install non-casks
-brew install python@3.8
+brew install python@3.9
+brew install pipenv
 brew install git
 brew install tree
 
