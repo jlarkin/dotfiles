@@ -13,8 +13,8 @@ brew install git
 brew install tree
 
 #cask installs
-brew cask install visual-studio-code
-brew cask install dropbox
-brew cask install google-chrome
-brew cask install shadow
-brew cask install microsoft-office
+brew install --cask visual-studio-code
+brew install --cask dropbox
+brew install --cask google-chrome
+brew install --cask shadow
+brew install --cask microsoft-office
